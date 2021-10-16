@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">thirdTest</string>
+    <string name="text">ANDROID APP</string>
+    <string name="edittext1">Username</string>
+    <string name="edittext2">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="signin">Sign in</string>
+    <string name="font">字体大小</string>
+    <string name="font1">10号</string>
+    <string name="font2">16号</string>
+    <string name="font3">20号</string>
+    <string name="plain_item">普通菜单项</string>
+    <string name="color">字体颜色</string>
+    <string name="color1">红色</string>
+    <string name="color2">黑色</string>
+    <string name="text1">用户测试的内容</string>
+    <string name="name">One</string>
+</resources>
